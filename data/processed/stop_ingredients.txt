@@ -1,0 +1,7 @@
+salt
+pepper
+sugar
+butter
+water
+oil
+olive oil

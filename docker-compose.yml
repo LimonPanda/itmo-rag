@@ -1,0 +1,15 @@
+services:
+  itmo-rag-bot:
+    build: .
+    container_name: itmo-rag-bot
+    env_file:
+      - .env
+    volumes:
+      # keep your index + processed data outside the container image
+      - ./data:/app/data
+      # cache huggingface models so it doesn't re-download
+      - hf_cache:/root/.cache/huggingface
+    restart: unless-stopped
+
+volumes:
+  hf_cache:

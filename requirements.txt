@@ -4,3 +4,6 @@ numpy
 tqdm
 numpy (<2)
 scikit-learn
+aiogram==3.*
+python-dotenv
+mistralai

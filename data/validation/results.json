@@ -1,0 +1,10 @@
+{
+  "baseline_hit@5": 0.36,
+  "baseline_hit@10": 0.42,
+  "baseline_mrr@10": 0.29033333333333333,
+  "rerank_hit@5": 0.52,
+  "rerank_hit@10": 0.52,
+  "rerank_mrr@10": 0.49666666666666665,
+  "n_queries": 50,
+  "retrieve_k": 25
+}

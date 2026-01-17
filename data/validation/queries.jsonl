@@ -1,0 +1,50 @@
+{"query": "flour, cream cheese, seedless raspberry preserves, graham cracker crust, lemon juice", "dish_type": "", "ingredients": ["flour", "cream cheese", "seedless raspberry preserves", "graham cracker crust", "lemon juice"], "expected_id": "1492992"}
+{"query": "rice krispies, regular marshmallows, peanut butter", "dish_type": "", "ingredients": ["rice krispies", "regular marshmallows", "peanut butter"], "expected_id": "1725536"}
+{"query": "arugula, shrimp, extra virgin olive oil", "dish_type": "", "ingredients": ["arugula", "shrimp", "extra virgin olive oil"], "expected_id": "1813417"}
+{"query": "chocolate chips, canola oil, caramels, eggs, yellow cake", "dish_type": "", "ingredients": ["chocolate chips", "canola oil", "caramels", "eggs", "yellow cake"], "expected_id": "1489981"}
+{"query": "fresh basil, carrots, garlic", "dish_type": "", "ingredients": ["fresh basil", "carrots", "garlic"], "expected_id": "1493000"}
+{"query": "deli ham, zucchini, all-purpose, bread crumbs", "dish_type": "", "ingredients": ["deli ham", "zucchini", "all-purpose", "bread crumbs"], "expected_id": "1490993"}
+{"query": "fresh sage, pumpkin seeds, shallots", "dish_type": "", "ingredients": ["fresh sage", "pumpkin seeds", "shallots"], "expected_id": "1848920"}
+{"query": "ground ginger, ears sweet corn, ground cloves, ground cumin", "dish_type": "", "ingredients": ["ground ginger", "ears sweet corn", "ground cloves", "ground cumin"], "expected_id": "1491900"}
+{"query": "pimientos, fresh parsley, all-purpose, elbow macaroni", "dish_type": "", "ingredients": ["pimientos", "fresh parsley", "all-purpose", "elbow macaroni"], "expected_id": "1491526"}
+{"query": "soup pumpkin puree, freshly ground black pepper, fresh ginger, onion, vegetable", "dish_type": "soup", "ingredients": ["pumpkin puree", "freshly ground black pepper", "fresh ginger", "onion", "vegetable"], "expected_id": "2108457"}
+{"query": "cherry tomatoes, onion, garlic", "dish_type": "", "ingredients": ["cherry tomatoes", "onion", "garlic"], "expected_id": "1492846"}
+{"query": "garam masala, honey, carrots, tomato paste, chickpeas", "dish_type": "", "ingredients": ["garam masala", "honey", "carrots", "tomato paste", "chickpeas"], "expected_id": "1493457"}
+{"query": "balsamic vinegar, strawberries, bagel, ricotta cheese", "dish_type": "", "ingredients": ["balsamic vinegar", "strawberries", "bagel", "ricotta cheese"], "expected_id": "2076672"}
+{"query": "heavy whipping cream, all-purpose, milk", "dish_type": "", "ingredients": ["heavy whipping cream", "all-purpose", "milk"], "expected_id": "1495145"}
+{"query": "caribbean jerk seasoning, ground nutmeg, brown sugar", "dish_type": "", "ingredients": ["caribbean jerk seasoning", "ground nutmeg", "brown sugar"], "expected_id": "1492314"}
+{"query": "italian, white wine, perciatelli, kosher salt, onion", "dish_type": "", "ingredients": ["italian", "white wine", "perciatelli", "kosher salt", "onion"], "expected_id": "1861590"}
+{"query": "orange juice concentrate, cranberry-apple juice, liters", "dish_type": "", "ingredients": ["orange juice concentrate", "cranberry-apple juice", "liters"], "expected_id": "1493957"}
+{"query": "maraschino cherries, chocolate chips, chocolate chip cookie, coloring", "dish_type": "", "ingredients": ["maraschino cherries", "chocolate chips", "chocolate chip cookie", "coloring"], "expected_id": "1493587"}
+{"query": "fresh cauliflowerets, mayonnaise, bacon bits", "dish_type": "", "ingredients": ["fresh cauliflowerets", "mayonnaise", "bacon bits"], "expected_id": "1493277"}
+{"query": "flour, pecans, vanilla, eggs", "dish_type": "", "ingredients": ["flour", "pecans", "vanilla", "eggs"], "expected_id": "1493399"}
+{"query": "ground pepper, basil, tomatoes, red onion", "dish_type": "", "ingredients": ["ground pepper", "basil", "tomatoes", "red onion"], "expected_id": "1490508"}
+{"query": "egg, white candy, ground cloves, ground cinnamon, baking powder", "dish_type": "", "ingredients": ["egg", "white candy", "ground cloves", "ground cinnamon", "baking powder"], "expected_id": "1974770"}
+{"query": "yogurt, brown sugar, ground cinnamon", "dish_type": "", "ingredients": ["yogurt", "brown sugar", "ground cinnamon"], "expected_id": "1493844"}
+{"query": "ground pepper, red potatoes, mayonnaise, celery", "dish_type": "", "ingredients": ["ground pepper", "red potatoes", "mayonnaise", "celery"], "expected_id": "1491287"}
+{"query": "trimmed spinach, golden raisins, ground pepper", "dish_type": "", "ingredients": ["trimmed spinach", "golden raisins", "ground pepper"], "expected_id": "2092217"}
+{"query": "cantaloupe, pecans, celery", "dish_type": "", "ingredients": ["cantaloupe", "pecans", "celery"], "expected_id": "1495171"}
+{"query": "american cheese, egg, pepper sauce, white, milk", "dish_type": "", "ingredients": ["american cheese", "egg", "pepper sauce", "white", "milk"], "expected_id": "1490768"}
+{"query": "clove garlic, thyme, calamari, thyme", "dish_type": "", "ingredients": ["clove garlic", "thyme", "calamari", "thyme"], "expected_id": "1862714"}
+{"query": "lemon zest, lemon, flour, vanilla, lemon zest", "dish_type": "", "ingredients": ["lemon zest", "lemon", "flour", "vanilla", "lemon zest"], "expected_id": "1489534"}
+{"query": "soup buttermilk, chicken broth, carrots, ground ginger, onion", "dish_type": "soup", "ingredients": ["buttermilk", "chicken broth", "carrots", "ground ginger", "onion"], "expected_id": "1493137"}
+{"query": "mushrooms, sour cream, green pepper", "dish_type": "", "ingredients": ["mushrooms", "sour cream", "green pepper"], "expected_id": "1495164"}
+{"query": "soup onion, italian seasoning, chicken broth, green pepper", "dish_type": "soup", "ingredients": ["onion", "italian seasoning", "chicken broth", "green pepper"], "expected_id": "1492383"}
+{"query": "chops, potato, golden delicious apple", "dish_type": "", "ingredients": ["chops", "potato", "golden delicious apple"], "expected_id": "1491231"}
+{"query": "flour, vanilla, baking cocoa, vegetable oil", "dish_type": "", "ingredients": ["flour", "vanilla", "baking cocoa", "vegetable oil"], "expected_id": "1493384"}
+{"query": "green chiles, avocado, tortilla chips, onion, clove garlic", "dish_type": "", "ingredients": ["green chiles", "avocado", "tortilla chips", "onion", "clove garlic"], "expected_id": "1986522"}
+{"query": "heavy whipping cream, wonton wrappers, carrot", "dish_type": "", "ingredients": ["heavy whipping cream", "wonton wrappers", "carrot"], "expected_id": "1493301"}
+{"query": "mustard, mandarin oranges, torn romaine, onion powder, red wine vinegar", "dish_type": "", "ingredients": ["mustard", "mandarin oranges", "torn romaine", "onion powder", "red wine vinegar"], "expected_id": "1493247"}
+{"query": "sour cream, fresh mushrooms, vegetable soup mix", "dish_type": "", "ingredients": ["sour cream", "fresh mushrooms", "vegetable soup mix"], "expected_id": "1491566"}
+{"query": "egg yolks, orange juice, lemon zest, cold butter, active dry yeast", "dish_type": "", "ingredients": ["egg yolks", "orange juice", "lemon zest", "cold butter", "active dry yeast"], "expected_id": "1489545"}
+{"query": "bread crumbs, onion, lean ground beef, egg whites, ketchup", "dish_type": "", "ingredients": ["bread crumbs", "onion", "lean ground beef", "egg whites", "ketchup"], "expected_id": "1491954"}
+{"query": "yellow cake, orange paste food coloring, green paste food coloring", "dish_type": "", "ingredients": ["yellow cake", "orange paste food coloring", "green paste food coloring"], "expected_id": "1489925"}
+{"query": "cooked beef, red pepper, sweet red peppers, eggs, soy sauce", "dish_type": "", "ingredients": ["cooked beef", "red pepper", "sweet red peppers", "eggs", "soy sauce"], "expected_id": "1495098"}
+{"query": "extra-virgin olive oil, limes, handful of cilantro, flour tortilla, red onion", "dish_type": "", "ingredients": ["extra-virgin olive oil", "limes", "handful of cilantro", "flour tortilla", "red onion"], "expected_id": "1903852"}
+{"query": "cayenne pepper, chicken broth, basil, tomatoes, garlic", "dish_type": "", "ingredients": ["cayenne pepper", "chicken broth", "basil", "tomatoes", "garlic"], "expected_id": "1490872"}
+{"query": "apple, ground cinnamon, golden raisins", "dish_type": "", "ingredients": ["apple", "ground cinnamon", "golden raisins"], "expected_id": "1489806"}
+{"query": "frozen whipped topping, toffee bits, semisweet chocolate, nuts, caramel ice cream topping", "dish_type": "", "ingredients": ["frozen whipped topping", "toffee bits", "semisweet chocolate", "nuts", "caramel ice cream topping"], "expected_id": "1493846"}
+{"query": "lemon juice, carrots, thyme, onion, celery", "dish_type": "", "ingredients": ["lemon juice", "carrots", "thyme", "onion", "celery"], "expected_id": "1493160"}
+{"query": "active dry yeast, onion, eggs, flour", "dish_type": "", "ingredients": ["active dry yeast", "onion", "eggs", "flour"], "expected_id": "1490824"}
+{"query": "parsley flakes, dill weed, sour cream, fresh vegetables", "dish_type": "", "ingredients": ["parsley flakes", "dill weed", "sour cream", "fresh vegetables"], "expected_id": "1494802"}
+{"query": "red pepper, fresh gingerroot, canola oil, soy sauce", "dish_type": "", "ingredients": ["red pepper", "fresh gingerroot", "canola oil", "soy sauce"], "expected_id": "1494680"}
